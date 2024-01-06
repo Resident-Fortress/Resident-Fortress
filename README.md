@@ -9,7 +9,7 @@
  <img src = "https://img.shields.io/badge/SwiftUI-ff6c37?style=for-the-badge&logo=swiftui&logoColor=black">
  <br>
    <H1>
- Hi I'm Matthew. I work on Front-End, Back-End, and CyberSecurity deployments.
+ Hi I'm Matthew, I work on Front-End, Back-End, and CyberSecurity
   </H1>
   
   <body>
