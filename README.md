@@ -3,6 +3,7 @@
  <img src="https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&logo=C++&color=df4f25">
  <img src="https://img.shields.io/badge/Tool-Git-informational?style=for-the-badge&logo=Git&color=f05032">
  <img src="https://img.shields.io/badge/Tool-PowerShell-informational?style=for-the-badge&logo=Powershell%color=3178c6">
+ <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge%logo=gnu-bash&logoColor=white">
  <br>
  <img src=  "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
  <img src = "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
