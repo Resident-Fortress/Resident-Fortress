@@ -14,7 +14,7 @@
   </H1>
   
   <body>
-   I make things secure 🔒. Particapated in CyberPatriot, Gold ranking. I've made a Powershell script that harndens Windows 10.
+   I make things secure 🔒. Particapated in CyberPatriot, Gold ranking. I've made a Powershell script that hardens Windows 10.
    I've made bash scripts but never really posted them to GitHub. I have tons of experience in Linux, Windows, and macOS. I'm currently learning C++, SwiftUI, Powershell.  
   </body>
  <br>
