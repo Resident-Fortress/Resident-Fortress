@@ -30,6 +30,7 @@
   </body>
  <br>
 <body>
+ <br>
  My specs right now
  <img src = "https://img.shields.io/badge/dell%20G16%207630-gray?style=for-the-badge&logo=dell"> 
  <br>
