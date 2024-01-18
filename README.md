@@ -9,8 +9,8 @@
  <img src = "https://img.shields.io/badge/SwiftUI-ff6c37?style=for-the-badge&logo=swiftui&logoColor=black">
  <br>
  <img src = "https://img.shields.io/badge/Raspberry%20Pi-red?style=for-the-badge&logo=raspberrypi"> 
- <img src = "https://img.shields.io/badge/Source-teal?style=for-the-badge&logo=source">
-  <img src = "https://img.shields.io/badge/Source2-blue?style=for-the-badge&logo=source-2">
+ <img src = "https://img.shields.io/badge/Source-teal?style=for-the-badge&logo=valve">
+  <img src = "https://img.shields.io/badge/Source2-blue?style=for-the-badge&logo=valve">
 
  
  
@@ -32,10 +32,15 @@
 <body>
  My specs right now
  <img src = "https://img.shields.io/badge/dell%20G16%207630-gray?style=for-the-badge&logo=dell"> 
+ <br>
  i9-13900HX
+ <br>
  RTX 4060 Max-Q
- 32Gb of RAM 
+ <br>
+ 32Gb of RAM
+ <br>
  3Tb NVME
+ <br>
 </body>
 
  
