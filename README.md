@@ -4,16 +4,15 @@
  <img src="https://img.shields.io/badge/Tool-Git-informational?style=for-the-badge&logo=Git&color=f05032">
  <img src="https://img.shields.io/badge/Tool-PowerShell-informational?style=for-the-badge&logo=Powershell%color=3178c6">
  <br>
+ <img src = "https://img.shields.io/badge/Raspberry%20Pi-red?style=for-the-badge&logo=raspberrypi"> 
+ <img src = "https://img.shields.io/badge/Source-teal?style=for-the-badge&logo=valve">
+ <img src = "https://img.shields.io/badge/Source2-blue?style=for-the-badge&logo=valve">
+ <br>
  <img src =  "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
  <img src = "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
  <img src = "https://img.shields.io/badge/SwiftUI-ff6c37?style=for-the-badge&logo=swiftui&logoColor=black">
- <br>
- <img src = "https://img.shields.io/badge/Raspberry%20Pi-red?style=for-the-badge&logo=raspberrypi"> 
- <img src = "https://img.shields.io/badge/Source-teal?style=for-the-badge&logo=valve">
-  <img src = "https://img.shields.io/badge/Source2-blue?style=for-the-badge&logo=valve">
+ 
 
- 
- 
  
  
 
