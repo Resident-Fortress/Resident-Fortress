@@ -9,7 +9,12 @@
  <img src = "https://img.shields.io/badge/SwiftUI-ff6c37?style=for-the-badge&logo=swiftui&logoColor=black">
  <br>
  <img src = "https://img.shields.io/badge/Raspberry%20Pi-red?style=for-the-badge&logo=raspberrypi"> 
- <img src = "https://img.shields.io/badge/Vulkan-teal?style=for-the-badge&logo=vulkan">
+ <img src = "https://img.shields.io/badge/Vulkan-teal?style=for-the-badge&logo=">
+ 
+ 
+ 
+ 
+
 
 <br>
    <H1>
@@ -17,11 +22,20 @@
   </H1>
   
   <body>
-   Worked on computers since I was 6 Years old. 
+   Worked on computers since I was 6 Years old. Don't a
    I work on Front-End, Back-End, and CyberSecurityI make things secure 🔒. Particapated in CyberPatriot, Gold ranking. I've made a Powershell script that hardens Windows 10.
    I've made bash scripts but never really posted them to GitHub. I have tons of experience in Linux, Windows, and macOS. I'm currently learning C++, SwiftUI, Powershell.  
   </body>
  <br>
+<body>
+ My specs right now
+ <img src = "https://img.shields.io/badge/dell%20G16%207630-gray?style=for-the-badge&logo=dell"> 
+ i9-13900HX
+ RTX 4060 Max-Q
+ 32Gb of RAM 
+ 3Tb NVME
+</body>
+
  
  <H3>
  
