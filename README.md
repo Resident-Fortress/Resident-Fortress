@@ -39,3 +39,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Resident-Fortress&repo=HackClub-FirstApp)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Resident-Fortress&repo=FunnyCProject)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Resident-Fortress&repo=StarDustXR-RPi5)](https://github.com/anuraghazra/github-readme-stats)
