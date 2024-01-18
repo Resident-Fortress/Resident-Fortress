@@ -42,6 +42,17 @@
  <br>
  3Tb NVME
  <br>
+
+  <img src = "https://img.shields.io/badge/CustomPC-teal?style=for-the-badge&logo=CustomPC">
+ <br>
+ i7-12700k
+ <br>
+ 32Gb of RAM
+ <br>
+ RTX 3060
+ <br>
+ 1Tb NVME
+ <br>
 </body>
 
  
