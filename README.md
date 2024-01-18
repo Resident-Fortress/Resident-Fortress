@@ -10,7 +10,7 @@
  <br>
  <img src = "https://img.shields.io/badge/Raspberry%20Pi-red?style=for-the-badge&logo=raspberrypi"> 
  <img src = "https://img.shields.io/badge/Source-teal?style=for-the-badge&logo=source">
-  <img src = "https://img.shields.io/badge/Source-blue?style=for-the-badge&logo=source-2">
+  <img src = "https://img.shields.io/badge/Source2-blue?style=for-the-badge&logo=source-2">
 
  
  
