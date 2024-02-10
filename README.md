@@ -3,6 +3,7 @@
  <img src="https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&logo=C++&color=df4f25">
  <img src="https://img.shields.io/badge/Tool-Git-informational?style=for-the-badge&logo=Git&color=f05032">
  <img src="https://img.shields.io/badge/Tool-PowerShell-informational?style=for-the-badge&logo=Powershell%color=3178c6">
+ <img src="https://img.shields.io/badge/-FreeBSD-red?style=for-the-badge&logo=freebsd
  <br>
  <img src = "https://img.shields.io/badge/Raspberry%20Pi-red?style=for-the-badge&logo=raspberrypi"> 
  <img src = "https://img.shields.io/badge/Source-teal?style=for-the-badge&logo=valve">
@@ -23,7 +24,7 @@
   </H1>
   
   <body>
-  Worked on computers since I was 6 Years old. Don't ask for things. I usually work on GitHub when I have nothing to do. Expect my releases to be random. Developer of CybrSD 
+  Worked on computers since I was 6 Years old. Don't ask for things. I usually work on GitHub when I have nothing to do. Expect my releases to be random. Developer of CybrSD. 
    I work as a Full Stack Dev, CyberSecurity; I make things secure 🔒. Particapated in CyberPatriot, 3rd in the State of Illinois. I've made a Powershell script that hardens Windows 10.
    I've made bash scripts but never really posted them to GitHub. I have tons of experience in Linux, Windows, and macOS. I'm currently learning C++, SwiftUI, Powershell.  
   </body>
