@@ -32,8 +32,7 @@
  <br>
  <body> 🛠 Certifactions, Past Experiences:
  CompTIA IT Fundamentals, CyberPatriot XVI, Stardust XR server (ported to ARM)
- </body>
-
+  </body>
  <br>
 <body>
  <br>
