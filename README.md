@@ -11,7 +11,7 @@
  <img src =  "https://img.shields.io/badge/OS-FreeBSD-red?style=for-the-badge&logo=freebsd">
  <img src =  "https://img.shields.io/badge/OS-macOS-blue?style=for-the-badge&logo=macOS">
  <br>
- <img src = "https://img.shields.io/badge/Raspberry%20Pi-red?style=for-the-badge&logo=raspberrypi"> 
+ <img src = "https://img.shields.io/badge/OS-Raspberry%20Pi-red?style=for-the-badge&logo=raspberrypi"> 
  <img src = "https://img.shields.io/badge/Engine-Source-teal?style=for-the-badge&logo=valve">
  <img src = "https://img.shields.io/badge/Engine-Source2-blue?style=for-the-badge&logo=valve">
  <br>
