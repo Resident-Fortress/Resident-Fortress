@@ -4,6 +4,7 @@
  <img src="https://img.shields.io/badge/Tool-Git-informational?style=for-the-badge&logo=Git&color=f05032">
  <img src="https://img.shields.io/badge/Tool-PowerShell-informational?style=for-the-badge&logo=Powershell%color=3178c6">
  <img src="https://img.shields.io/badge/-FreeBSD-red?style=for-the-badge&logo=freebsd">
+ <img src="https://img.shields.io/badge/ITF+-blue?style=for-the-badge&logo=comptia
  <br>
  <img src = "https://img.shields.io/badge/Raspberry%20Pi-red?style=for-the-badge&logo=raspberrypi"> 
  <img src = "https://img.shields.io/badge/Source-teal?style=for-the-badge&logo=valve">
