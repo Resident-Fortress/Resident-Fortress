@@ -2,7 +2,7 @@
 
  <img src =  "https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&logo=C++&color=df4f25">
  <img src =  "https://img.shields.io/badge/Tool-Git-informational?style=for-the-badge&logo=Git&color=f05032">
- <img src =  "https://img.shields.io/badge/Tool-PowerShell-informational?style=for-the-badge&logo=Powershell%color=3178c6">
+ <img src =  "https://img.shields.io/badge/Tool-PowerShell-informational?style=for-the-badge&logo=Windows-Powershell%color=3178c6">
  <img src = "https://img.shields.io/badge/SwiftUI-ff6c37?style=for-the-badge&logo=swiftui&logoColor=black">
  <img src = "https://img.shields.io/badge/ITF+-blue?style=for-the-badge&logo=comptia">
  <br>
