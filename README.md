@@ -1,18 +1,19 @@
 <p align="center">
 
- <img src="https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&logo=C++&color=df4f25">
- <img src="https://img.shields.io/badge/Tool-Git-informational?style=for-the-badge&logo=Git&color=f05032">
- <img src="https://img.shields.io/badge/Tool-PowerShell-informational?style=for-the-badge&logo=Powershell%color=3178c6">
+ <img src =  "https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&logo=C++&color=df4f25">
+ <img src =  "https://img.shields.io/badge/Tool-Git-informational?style=for-the-badge&logo=Git&color=f05032">
+ <img src =  "https://img.shields.io/badge/Tool-PowerShell-informational?style=for-the-badge&logo=Powershell%color=3178c6">
  <img src = "https://img.shields.io/badge/SwiftUI-ff6c37?style=for-the-badge&logo=swiftui&logoColor=black">
- <img src="https://img.shields.io/badge/ITF+-blue?style=for-the-badge&logo=comptia">
+ <img src = "https://img.shields.io/badge/ITF+-blue?style=for-the-badge&logo=comptia">
  <br>
  <img src = "https://img.shields.io/badge/Raspberry%20Pi-red?style=for-the-badge&logo=raspberrypi"> 
  <img src = "https://img.shields.io/badge/Source-teal?style=for-the-badge&logo=valve">
  <img src = "https://img.shields.io/badge/Source2-blue?style=for-the-badge&logo=valve">
  <br>
  <img src =  "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
- <img src = "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
- <img src="https://img.shields.io/badge/-FreeBSD-red?style=for-the-badge&logo=freebsd">
+ <img src =  "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+ <img src =  "https://img.shields.io/badge/-FreeBSD-red?style=for-the-badge&logo=freebsd">
+ <img src =  "https://img.shields.io/badge/macOS-blue?style=for-the-badge&logo=macOS">
 
  
 
