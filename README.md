@@ -30,8 +30,10 @@
    I've made bash scripts but never really posted them to GitHub. I have tons of experience in Linux, Windows, and macOS. I'm currently learning C++, SwiftUI, Powershell.  
   </body>
  <br>
- ## 🛠 Certifactions, Past Experiences:
- CompTIA IT Fundamentals, CyberPatriot XVI, Stardust XR server (porting to ARM)
+ <body> 🛠 Certifactions, Past Experiences:
+ CompTIA IT Fundamentals, CyberPatriot XVI, Stardust XR server (ported to ARM)
+ </body>
+
  <br>
 <body>
  <br>
