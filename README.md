@@ -31,7 +31,7 @@
   </body>
  <br>
  <h1> 🛠 Certifications, Past Experiences:
- CompTIA IT Fundamentals, CyberPatriot XVI, Stardust XR server (ported to ARM)
+ CompTIA IT Fundamentals, CyberPatriot XVI, Stardust XR server (ported to ARM), Local work on troubleshooting and installation
  </h1>
  <br>
 <body>
