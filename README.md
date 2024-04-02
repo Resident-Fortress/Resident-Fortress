@@ -25,10 +25,13 @@
    I've made bash scripts but never really posted them to GitHub. I have in total over 3500 hours in Linux, Windows, and macOS. I'm currently learning C++, SwiftUI, Powershell.  
   </body>
  <br>
- <h1> 🛠 Certifications, Past Experiences:
- CompTIA IT Fundamentals, CyberPatriot XVI, Stardust XR server (ported to ARM), Local work on troubleshooting and installation
+ <h1> Past Experiences:
+  CyberPatriot XVI, Stardust XR server (ported to ARM), Local work on troubleshooting and installation
  </h1>
  <br>
+ <h2> 🛠 Certifications
+  CompTIA IT Fundamentals
+ </h2>
 <body>
  <br>
  My specs right now
