@@ -29,7 +29,7 @@
   CyberPatriot XVI, Stardust XR server (ported to ARM), Local work on troubleshooting and installation
  </h1>
  <br>
- <h2> 🛠 Certifications
+ <h2> 🛠 Certifications:
   CompTIA IT Fundamentals
  </h2>
 <body>
