@@ -51,7 +51,7 @@
  <br>
  i7-12700k
  <br>
- 32Gb of RAM
+ 64Gb of RAM
  <br>
  RTX 3060
  <br>
