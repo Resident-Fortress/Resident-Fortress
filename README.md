@@ -55,7 +55,7 @@
  <br>
  RTX 3060
  <br>
- 1Tb NVME
+ 3Tb NVME
  <br>
 </body>
 
