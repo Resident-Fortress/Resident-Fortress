@@ -77,10 +77,8 @@
 
 </H2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Resident-Fortress&repo=Windows10-Harndening)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Resident-Fortress&repo=HackClub-FirstApp)](https://github.com/Resident-Fortress/HackClub-FirstApp)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Resident-Fortress&repo=HackClub-FirstApp)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Resident-Fortress&repo=FunnyCProject)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Resident-Fortress&repo=FunnyCProject)](https://github.com/Resident-Fortress/FunnyCProject)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Resident-Fortress&repo=StardustXR-ARM)](https://github.com/Resident-Fortress/StarDustXR)
