@@ -54,6 +54,7 @@
  64Gb of RAM
  <br>
  Nvidia RTX 3060 12gb
+ <br>
  AMD RX6600 8gb
  <br>
  3Tb NVME
