@@ -25,7 +25,7 @@
   </body>
  <br>
  <h1> Past Experiences:
-  CyberPatriot XVI, Stardust XR server (ported to ARM), Local work on troubleshooting and installation
+  CyberPatriot XVI, Stardust XR server (ported to RPi5 ARM), Local work on troubleshooting and installation
  </h1>
  <br>
  <h2> 🛠 Certifications:
