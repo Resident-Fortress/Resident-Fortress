@@ -31,35 +31,6 @@
  <h2> 🛠 Certifications:
   CompTIA IT Fundamentals
  </h2>
-<body>
- <br>
- My specs right now
- <img src = "https://img.shields.io/badge/dell%20G16%207630-gray?style=for-the-badge&logo=dell"> 
- <br>
- i9-13900HX
- <br>
- RTX 4060 Max-Q
- <br>
- 32Gb of RAM
- <br>
- 3Tb NVME
- <br>
- <br>
-
-  <img src = "https://img.shields.io/badge/CustomPC-teal?style=for-the-badge&logo=CustomPC">
- <br>
- i7-12700k
- <br>
- 64Gb of RAM
- <br>
- Nvidia RTX 3060 12gb
- <br>
- AMD RX6600 8gb
- <br>
- 3Tb NVME
- <br>
-</body>
-
  
  <H3>
  
