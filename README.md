@@ -33,7 +33,7 @@
  
  <H3>
  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Resident-Fortress)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Resident-Fortress)](https://github.com/Resident-Fortress)
 
  </H3>
  <br>
