@@ -20,7 +20,7 @@
   </H1>
   
   <body>
-  Worked on computers since I was 6 Years old. Don't ask for things. I usually work on GitHub when I have nothing to do. Expect my releases to be random. I work as a Full Stack Dev. I've made bash scripts but never really posted them to GitHub. I have in total almost a decades worth of experience in Linux, Windows, and macOS. I'm currently learning C++, SwiftUI, Powershell.  
+  Worked on computers since I was 6 Years old. I mainly center myself around server and network administration on my homelab. I have in total almost a decades worth of experience in Linux, Windows, and macOS. I'm currently learning C++, SwiftUI, Powershell, Windows Server, Splunk.  
   </body>
  <br>
  <h1> Past Experiences:
