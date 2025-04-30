@@ -6,6 +6,7 @@
  <img src =  "https://img.shields.io/badge/Tool-Git-informational?style=for-the-badge&logo=Git&color=f05032">
  <img src =  "https://img.shields.io/badge/Tool-PowerShell-informational?style=for-the-badge&logo=windows%color=3178c6">
  <img src = "https://img.shields.io/badge/ITF+-blue?style=for-the-badge&logo=comptia">
+ <img src = "https://img.shields.io/badge/A+-blue?style=for-the-badge&logo=comptia">
  <br>
  <img src =  "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=microsoft&logoColor=white">
  <img src =  "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
@@ -28,7 +29,7 @@
  </h1>
  <br>
  <h2> 🛠 Certifications:
-  CompTIA IT Fundamentals
+  CompTIA IT Fundamentals, CompTIA A+
  </h2>
  
  <H3>
