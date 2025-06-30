@@ -31,7 +31,7 @@
  </h1>
  <br>
  <h2> 🛠 Certifications:
-  CompTIA IT Fundamentals, CompTIA A+
+  CompTIA IT Fundamentals+, CompTIA A+
  </h2>
  
  <H3>
