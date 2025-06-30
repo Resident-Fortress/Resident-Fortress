@@ -7,15 +7,16 @@
  <img src =  "https://img.shields.io/badge/Tool-PowerShell-informational?style=for-the-badge&logo=windows%color=3178c6">
  <img src = "https://img.shields.io/badge/ITF+-blue?style=for-the-badge&logo=comptia">
  <br>
+ <img src = "https://img.shields.io/badge/Raspberry%20Pi-red?style=for-the-badge&logo=raspberrypi">
+ <img src = "https://img.shields.io/badge/Service-MongoDB-ff32c37?style=for-the-badge&logo=mongodb&logoColor=Green">
+ <img src = "https://img.shields.io/badge/terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge">
+ <br>
  <img src =  "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=microsoft&logoColor=white">
  <img src =  "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
  <img src =  "https://img.shields.io/badge/FreeBSD-red?style=for-the-badge&logo=freebsd">
  <img src =  "https://img.shields.io/badge/macOS-blue?style=for-the-badge&logo=macOS">
  <img src = "https://img.shields.io/badge/A+-red?style=for-the-badge&logo=comptia">
- <br>
- <img src = "https://img.shields.io/badge/Raspberry%20Pi-red?style=for-the-badge&logo=raspberrypi">
- <img src = "https://img.shields.io/badge/Service-MongoDB-ff32c37?style=for-the-badge&logo=mongodb&logoColor=Green">
- <img src = "https://img.shields.io/badge/terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge">
+
  <br>
    <H1>
  Hi I'm Matthew
